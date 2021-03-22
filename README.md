@@ -1,0 +1,1 @@
+Kickstarter clone with solidity and next.js
